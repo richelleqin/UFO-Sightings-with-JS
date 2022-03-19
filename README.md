@@ -3,13 +3,14 @@
 ### 
 The purpose of this project is to display a table of UFO data by allowing users to filter multiple criteria such as date, city, state, country, and shape on the website using Javascript, HTML, CSS, and bootstrap. 
 ## Results
+
+Under the filters, you are able to input the specifc elements, it returns the records that are matching with the criteria selected. You can also clear the contents on the filter input box then press enter to initiate the table/filters.
+
 Here are how the landing page and filters display on the webpage:
 
 ![1](https://user-images.githubusercontent.com/67567087/159137589-241abca5-c94e-40d2-8450-0282fcde7345.png)
 
 ![2](https://user-images.githubusercontent.com/67567087/159137592-a74149f9-5ce2-4ebb-b938-41d3b7d0966c.png)
-
-Under the filters, you are able to input the specifc elements, it returns the records that are matching with the criteria selected. You can also clear the contents on the filter input box then press enter to initiate the table/filters.
 
 ## Summary
 ### Drawback 
