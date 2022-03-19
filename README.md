@@ -1,7 +1,7 @@
 # UFO-Sightings-with-JS
 ## Overview 
 ### 
-The purpose of this project is to display a table of UFO data by allowing users to filter multiple criteria such as date, city, state, country, and shape on the website using Javascript, HTML, CSS, and bootstrap. 
+The purpose of this project is to display a table of UFO data using Javascript, HTML, CSS, and bootstrap to allow users to filter multiple criteria such as date, city, state, country, and shape on the website  
 ## Results
 
 Under the filters, you are able to input the specifc elements, it returns the records that are matching with the criteria selected. You can also clear the contents on the filter input box then press enter to initiate the table/filters.
